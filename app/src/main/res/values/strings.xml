@@ -1,0 +1,43 @@
+
+    <!--
+      ~ Derechos de autor (C) 2023 El Proyecto de Código Abierto Android
+      ~
+      ~ Licenciado bajo la Licencia Apache, Versión 2.0 (la "Licencia");
+      ~ no puede utilizar este archivo excepto en cumplimiento con la Licencia.
+      ~ Puede obtener una copia de la Licencia en
+      ~
+      ~     https://www.apache.org/licenses/LICENSE-2.0
+      ~
+      ~ A menos que sea requerido por ley aplicable o acordado por escrito, el software
+      ~ distribuido bajo la Licencia se distribuye en una base "TAL CUAL",
+      ~ SIN GARANTÍAS O CONDICIONES DE NINGÚN TIPO, ya sea expresa o implícita.
+      ~ Consulte la Licencia para ver el idioma específico que rige los permisos y
+      ~ limitaciones bajo la Licencia.
+      -->
+<resources>
+    <string name="app_name">Inventario</string>
+    <string name="attention">Atención</string>
+    <string name="back_button">Atrás</string>
+    <string name="delete">Eliminar</string>
+    <string name="delete_question">¿Estás seguro de que quieres eliminar?</string>
+    <string name="no_item_description">¡Oops!\nNo hay vehículos en el inventario.\nPulsa + para agregar.</string>
+    <string name="edit_item_title">Editar Vehículo</string>
+    <string name="item">Vehículo</string>
+    <string name="color">Color</string>
+    <string name="modelo">modelo</string>
+    <string name="item_detail_title">Detalles del Vehículo</string>
+    <string name="item_entry_title">Agregar Vehículo</string>
+    <string name="item_name_req">Nombre del vehículo</string>
+    <string name="item_modelo_req">Modelo del Vehículo*</string>
+    <string name="item_color_req">Color del Vehículo*</string>
+    <string name="item_price_req">Precio del Vehículo*</string>
+    <string name="no">No</string>
+    <string name="price">Precio</string>
+    <string name="quantity_in_stock">Cantidad en Stock</string>
+    <string name="in_stock">%d en stock</string>
+    <string name="quantity_req">Cantidad en Stock*</string>
+    <string name="save_action">Guardar</string>
+    <string name="sell">Vender</string>
+    <string name="yes">Sí</string>
+    <string name="required_fields">*campos requeridos</string>
+</resources>
